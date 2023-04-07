@@ -1,8 +1,8 @@
 # Password-Generator
 Code Refactoring
 
-This project was part of a "code refactoring". The goal is to refactor a code a fix the issue with the password generator. 
-We were given all the necessary files for this project which included the .html, .css, and .js file. The focus was mainly on the javascript file as we had to create and output a random generated password using prompts. 
+This project was part of a "code refactoring". The goal is to refactor a code and fix the issue with the password generator. 
+We were given all of the necessary files for this project which included the .html, .css, and .js file. The focus was mainly on the javascript file as we had to create and output a random generated password using prompts. 
 We were given a 'User story' and an 'Acceptance Criteria' for this project. Listed below are the 'Acceptance Criteria'.
 
 CHALLENGES
@@ -47,7 +47,7 @@ THEN the password is either displayed in an alert or written to the page
 
 ------------------------------------------------------------------------------------------------------------------------------
 
-In my repository contains an 'images' folder, which are my screenshots for the website. I have a 'script.js with comments' folder. This folder is a copy of my script.js, but with comments. I wrote the comments for myself, so that I could understand what the line of code meant. Lastly I have my 'index.html', 'script.js', 'style.css', 'LICENSE', and 'READEME.md' file.
+In my repository contains an 'images' folder, which are my screenshots for the website. I have a 'script.js with comments' folder. This folder is a copy of my script.js, but with comments. I wrote the comments for myself, so that I could understand what the line of code meant. Lastly I have my 'index.html', 'script.js', 'style.css', 'LICENSE', and 'README.md' file.
 
 ------------------------------------------------------------------------------------------------------------------------------
 
